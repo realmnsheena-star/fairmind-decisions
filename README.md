@@ -17,6 +17,7 @@ Live Demo:
 https://fairmind-ai-showcase.lovable.app
 
 Author:
+
 Sheena N
 
 Nandini G
